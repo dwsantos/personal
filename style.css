@@ -35,3 +35,13 @@ h2, p {
     color: white;
     font-family: 'Montserrat', sans-serif;
 }
+
+
+.parallax1 {
+  background-image: url('https://www.phpartners.com/wp-content/uploads/2023/01/AdobeStock_222683930-scaled.jpeg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100%;
+}
